@@ -33,3 +33,21 @@ This guide follows **AWS best practices**, including **Origin Access Control (OA
 <p align="center">
   <img src="./assets/arch.png" alt="Architecture Diagram" width="750">
 </p>
+
+
+This architecture ensures:
+
+✔ Secure access  
+✔ High performance  
+✔ Global latency reduction  
+✔ Custom domain + HTTPS  
+✔ Minimal operational overhead  
+
+---
+
+# 🧩 Step 1 — Create an S3 Bucket (Private Hosting)
+
+### 1️⃣ Create a New Bucket
+
+1. Go to **AWS S3 → Create Bucket**
+2. Bucket name example:
