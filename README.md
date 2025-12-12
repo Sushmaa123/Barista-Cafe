@@ -72,8 +72,8 @@ CloudFront accepts certificates **only from the `us-east-1` region**.
 1. Open **AWS ACM (N. Virginia)**  
 2. Request a **Public Certificate**
 3. Add domains:
-yourdomain.com
-www.yourdomain.com
+   yourdomain.com
+   www.yourdomain.com
 4. Select **DNS validation**
 5. ACM generates two CNAME records  
 6. Keep the page open
