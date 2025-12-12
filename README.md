@@ -28,3 +28,8 @@ This guide follows **AWS best practices**, including **Origin Access Control (OA
 
 # 🏗 Architecture Overview
 
+## 📌 Architecture Diagram
+
+<p align="center">
+  <img src="./assets/arch.png" alt="Architecture Diagram" width="750">
+</p>
